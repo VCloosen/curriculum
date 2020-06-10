@@ -1,0 +1,18 @@
+    .experiences-container {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .bi-chevron-down {
+        color: rgba(109, 104, 117, 0.8)!important;
+        font-size: 30px;
+        text-decoration: none!important;
+        margin-bottom: 10px;
+        margin-top: 80px;
+        position: relative;
+    }
+    
+    .bi-chevron-down:hover {
+        color: rgba(230, 103, 103, 0.7)!important;
+        font-size: 35px;
+    }

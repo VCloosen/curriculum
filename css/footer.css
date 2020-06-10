@@ -1,0 +1,22 @@
+ /*FOOTER*/
+ 
+ footer {
+     background: #333;
+     padding: 20px 0 40px;
+ }
+ 
+ footer .glyphicon {
+     font-size: 25px;
+     margin: 20px;
+     color: orange;
+     height: 30px;
+ }
+ 
+ footer .glyphicon:hover {
+     font-size: 29px;
+ }
+ 
+ footer h5 {
+     color: #fff;
+     font-weight: normal;
+ }
